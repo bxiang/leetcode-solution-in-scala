@@ -1,5 +1,5 @@
 ## Leetcode Solutions in Scala
-...just for fun
+...just for fun~
 
 |  ID   | Problem description                             | Solution |
 | :---- | :---------------------------------------------: | -------: |
