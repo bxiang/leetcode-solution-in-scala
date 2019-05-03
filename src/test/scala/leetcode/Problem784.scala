@@ -2,7 +2,6 @@ package leetcode
 
 import org.scalatest.FunSuite
 
-// https://leetcode.com/problems/letter-case-permutation/description/
 class Problem784 extends FunSuite {
 
   def doCasePermut(input: List[Char]): List[List[Char]] = {

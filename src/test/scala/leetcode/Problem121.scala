@@ -2,7 +2,6 @@ package leetcode
 
 import org.scalatest.FunSuite
 
-// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 class Problem121 extends FunSuite {
 
   def maxProfit(prices: Seq[Int]): Int = {
